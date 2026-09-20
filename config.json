@@ -12,7 +12,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "YK TRICKS INDIA",
+    "BOTNAME": "DEVO IMNIDA",
     "PREFIX": "+",
     "OTHERBOT": [
         ""
@@ -29,12 +29,12 @@
         "61594145951150",
         ""
     ],
-    "OWNER": "AYUSH RAJPUT ",
+    "OWNER": "DEVO IMNIDA ",
     "AGE": "21",
     "GENDER": "MALE",
     "FACEBOOK": "https://www.facebook.com/share/15Z3vxfcBJ/",
-    "AutoOffBot": "disable",
-    "AutoOffBotStartSleep": "disable",
+    "SEND MESSAGES": "PARA KA NA ASUJAN SA SINABE MO😹",
+    "SEND MESSAGES":  "WAG MUKO LUKUHEN MCDONALD'S 😹",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
     "AutoOffBotEndSleep": "disable",
     "AutoGreet": "disable",
@@ -187,5 +187,6 @@
     },
     "messageforrealcreator": {
         "enable": true
-    }
-}
+    }"autosend message"{ TABA, JUMP JUMP😹}
+   }"autosend message" {PARA KANG BABUY JAN TABA}
+
